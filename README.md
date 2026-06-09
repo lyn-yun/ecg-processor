@@ -70,7 +70,7 @@ ecg-processor/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/ecg-processor.git
+git clone https://github.com/lyn-yun/ecg-processor.git
 cd ecg-processor
 
 # Install dependencies
